@@ -484,7 +484,7 @@ class compression:
                                                 sda3=sda3[48:]
                                                 lenf6=len(sda3)
                                                 print("Deep: ")
-                                                print(Deep7)
+                                                
                                                 
                                         if   Circle_times2>0:
                                         	xc3=0
@@ -504,9 +504,9 @@ class compression:
                                                 
                                                 e=(2**Deep5)-1
                                                 j=e+T8
-                                                T7=T7-((10**5)*g)
+                                                T7=T7-((10**5)*T8)
                                                 T7=(T7*j)
-                                                
+                                               
                                                 Deep5=Deep5+2
                                                 Deep4=Deep4+2
                                         
@@ -533,7 +533,7 @@ class compression:
                                                 Circle_times2=Circle_times2+1
 
                                         lenf9=len(sda17)
-                                        #print(Circle_times2)
+                                        print(Circle_times2)
                                         
                                         
                                         if  Circle_times2==T:
