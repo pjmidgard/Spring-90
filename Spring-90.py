@@ -499,7 +499,7 @@ class compression:
                                                 
                                                 e=(2**Deep5)-1
                                                 j=e+T8
-                                                T7=T7-((10**5)*g)
+                                                T7=T7-((10**5)*T8)
                                                 T7=(T7*j)
                                         
                                        
